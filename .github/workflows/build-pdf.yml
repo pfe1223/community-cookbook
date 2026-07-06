@@ -1,0 +1,42 @@
+name: Build Cookbook PDF
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-node: '3.x'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Merge Markdown Files
+        run: python build_book.py
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
+
+      - name: Download Eisvogel Template
+        run: |
+          mkdir -p ~/.local/share/pandoc/templates
+          wget https://github.com/Wandmalfarbe/pandoc-latex-template/releases/download/v2.4.2/Eisvogel.tar.gz
+          tar -xvzf Eisvogel.tar.gz -C ~/.local/share/pandoc/templates
+
+      - name: Build PDF
+        run: pandoc combined_cookbook.md -o cookbook.pdf --template eisvogel --toc
+
+      - name: Upload PDF Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: community-cookbook
+          path: cookbook.pdf

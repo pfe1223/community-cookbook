@@ -1,0 +1,14 @@
+title: "The Open Source Community Cookbook"
+author: "Our Awesome Community"
+date: "2026"
+
+sections:
+  - name: "Appetizers"
+    recipes:
+      - recipes/appetizers/garlic-bread.md
+  - name: "Main Courses"
+    recipes:
+      - recipes/mains/perfect-pizza.md
+  - name: "Breads"
+    recipes:
+      - recipes/bread/country-loaf.md
