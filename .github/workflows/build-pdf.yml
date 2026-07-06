@@ -29,7 +29,7 @@ jobs:
       - name: Download Eisvogel Template
         run: |
           mkdir -p ~/.local/share/pandoc/templates
-          wget https://github.com/Wandmalfarbe/pandoc-latex-template/releases/download/v2.4.2/Eisvogel.tar.gz
+          wget https://github.com/Wandmalfarbe/pandoc-latex-template/releases/download/v3.4.0/Eisvogel.tar.gz
           tar -xvzf Eisvogel.tar.gz -C ~/.local/share/pandoc/templates
 
       - name: Build PDF
