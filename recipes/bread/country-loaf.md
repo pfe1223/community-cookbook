@@ -22,9 +22,11 @@ A brief, 1–2 sentence story or description of the dish. Why is it special?
 
 #### Day 2
 1. **Hydrate the starter:** In a large bowl, mix together the water and starter. Try to dissolve any large clumps of starter in the water. The water should become frothy.
-2. **Mix the dough:** Add the flour to the bowl, and mix thoroughly. Keep mixing until no more loose flour is visible. Be sure to scrape down the sides of the bowl as you go.
-3. **Let rest:** Cover the bowl with a plate (or other lid), and let the flour hydrate for 30 minutes.
-4. **Add the salt:** Sprinkle the salt over the dough. With a _wet_ hand, squeeze and fold the dough so that the salt is evenly distributed and no longer visible.
+1. **Mix the dough:** Add the flour to the bowl, and mix thoroughly. Keep mixing until no more loose flour is visible. Be sure to scrape down the sides of the bowl as you go.
+1. **Let rest:** Cover the bowl with a plate (or other lid), and let the flour hydrate for 30 minutes.
+1. **Add the salt:** Sprinkle the salt over the dough. With a _wet_ hand, squeeze and fold the dough so that the salt is evenly distributed and no longer visible.
+1. **Let rest:** Cover the dough, and let it rest for 30 minutes.
+1. **Stretch and fold 1:** Perform the first set of stretch and folds. With a _wet_ hand, grab a portion of the dough.
 
 #### Day 3
 
