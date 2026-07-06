@@ -1,3 +1,23 @@
+---
+title: The Open Source Community Cookbook
+author: Our Awesome Community
+date: 2026
+---
+
+# Appetizers
+
+
+
+\pagebreak
+
+# Main Courses
+
+
+
+\pagebreak
+
+# Breads
+
 ## Country Loaf
 
 **Prep Time:** 3 days | **Cook Time:** 45 mins | **Servings:** 1 loaf
@@ -29,3 +49,6 @@ A brief, 1–2 sentence story or description of the dish. Why is it special?
 #### Day 3
 
 > 💡 **Chef's Tip:** > Insert any special variations, ingredient substitutions, or pairing suggestions here!
+
+\pagebreak
+
