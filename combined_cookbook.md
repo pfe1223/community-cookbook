@@ -1,5 +1,5 @@
 ---
-title: The Open Source Community Cookbook
+title: The Somerville Fermentation Festival Community Cookbook
 author: Our Awesome Community
 date: 2026
 ---
