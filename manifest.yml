@@ -6,13 +6,28 @@ date: "2026"
 # mainfont: "DejaVu Serif"
 # sansfont: "DejaVu Sans"
 
+# --- NEW: optional cover page styling (passed through to Eisvogel) ---
+cover:
+  titlepage-color: "F2EEE4"
+  titlepage-text-color: "2B2118"
+  titlepage-rule-color: "8A5A34"
+  # logo: assets/logo.png
+  # logo-width: 2in
+  # titlepage-background: assets/cover-photo.png
+
+# --- NEW: optional foreword, points to a standalone markdown file ---
+foreword: frontmatter/foreword.md
+
 sections:
   - name: "Appetizers"
+    # NEW: optional intro text shown under the section heading
+    intro: "Small bites to open the table -- shareable, forgiving, and forgiving of last-minute substitutions."
     recipes:
-      - recipes/appetizers/salt-brined-pickles.md
+      - recipes/appetizers/garlic-bread.md
   - name: "Main Courses"
     recipes:
       - recipes/mains/perfect-pizza.md
   - name: "Breads"
+    intro: "Sourdough, patience, and a little bit of flour on everything you own."
     recipes:
       - recipes/bread/country-loaf.md
