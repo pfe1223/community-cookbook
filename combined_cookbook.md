@@ -18,25 +18,26 @@ date: 2026
 
 # Breads
 
-## Country Loaf
+## Country Loaf (Yeast Water)
 
-**Prep Time:** 3 days | **Cook Time:** 45 mins | **Servings:** 1 loaf
+**Prep Time:** 3 days | **Cook Time:** 40 mins | **Servings:** 1 loaf
 **Contributor:** Patrick
 
 ---
 
 ### Description
-A brief, 1–2 sentence story or description of the dish. Why is it special? 
+This recipe makes a rustic loaf of country bread using yeast water as the leavening agent. This recipe assumes you have fermented yeast water. Please see the Yeast Water recipe. Remember, dough is a living thing that responds to its local environment. You may need to make changes depending on the temperature.
 
 ### Ingredients
-- [ ] 500 grams **bread flour**
-- [ ] 350 grams **water**
-- [ ] 100 grams **active sourdough starter** (see Day 1 instructions below)
+- [ ] 400 grams **bread flour**
+- [ ] 100 grams **whole wheat flour**
+- [ ] 150 grams **filtered water**
+- [ ] 200 grams **yeast water**
 - [ ] 12 grams **sea salt**
 
 ### Instructions
 #### Day 1
-1. **Prepare the levain:** In a jar, set aside 5 grams of mature sourdough starter. To it, add 50 grams of water and 50 grams of flour.
+1. **Prepare the poolish:** In a jar, set aside 5 grams of mature sourdough starter. To it, add 50 grams of water and 50 grams of flour.
 2. **Mix well:** Mix the above ingredients together well, so that everything is well incorporated. There should be no dry spots of flour.
 3. **Let ferment:** Loosely cover the jar, and let sit at room temperature (72 to 75 Fahrenheit) for 10 hours.
 
@@ -58,8 +59,8 @@ A brief, 1–2 sentence story or description of the dish. Why is it special?
 
 #### Day 3
 1. **Preheat the oven:** Place a cast iron pot (with lid) in the oven, and set it to 500F. Let the oven preheat for an hour.
-1. **Scoring:** Take the dough out of the oven, and turn it out on to a sheet of parchment paper. Using a razor blade, slash the dough at a 45-degree angle from one end to the other. Take the cast iron pot out of the oven, and lower the dough into the pot with the parchment paper.
-1. **Bake:** Cover the cast iron pot with the lid. Place the pot into the oven. Bake for 20 minutes. Remove the lid, and bake uncovered for another 20 minutes. When the loaf is a dark, golden brown, remove it from the oven.
+1. **Scoring:** Take the dough out of the oven, and turn it out on to a sheet of parchment paper. Using a razor blade, slash the dough at a 45-degree angle from one end to the other. Take the cast iron pot out of the oven, and lower the dough into the pot with the parchment paper. Cover the cast iron pot with the lid.
+1. **Bake:** Turn the oven down to 450F. Place the pot into the oven. Bake for 20 minutes. Remove the lid, and bake uncovered for another 20 minutes. When the loaf is a dark, golden brown, remove it from the oven.
 1. **Cool:** Let the loaf rest for two hours on a cooling rack before slicing.
 
 > 💡 **Chef's Tip:** > Insert any special variations, ingredient substitutions, or pairing suggestions here!
