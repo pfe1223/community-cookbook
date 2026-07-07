@@ -1,4 +1,4 @@
-# The Open Source Community Cookbook
+# Somerville Fermentation Festival Community Cookbook
 
 A crowd-sourced cookbook built entirely from pull requests. Every recipe contributed here gets automatically compiled into a single, nicely formatted PDF cookbook via GitHub Actions.
 
