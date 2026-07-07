@@ -20,26 +20,28 @@ jobs:
       - name: Install PyYAML
         run: pip install pyyaml
 
+      - name: Check all recipes are registered in manifest.yml
+        run: python check_manifest.py
+
       - name: Merge Markdown Files
         run: python build_book.py
 
       - name: Install Pandoc and LaTeX Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-xetex lmodern
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-xetex
 
       - name: Build PDF
         run: |
           pandoc combined_cookbook.md -o cookbook.pdf \
-          --template=templates/eisvogel.tex \
-          --toc \
-          --pdf-engine=xelatex \
-          -V geometry:margin=1in \
-          -V colorlinks=true \
-          -V linkcolor=blue \
-          -V urlcolor=cyan \
-          -V mainfont="DejaVu Serif" \
-          -V sansfont="DejaVu Sans"
+            --toc \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in \
+            -V colorlinks=true \
+            -V linkcolor=blue \
+            -V urlcolor=cyan \
+            -V mainfont="DejaVu Serif" \
+            -V sansfont="DejaVu Sans"
 
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
