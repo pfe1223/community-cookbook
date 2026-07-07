@@ -3,13 +3,13 @@ author: "Our Awesome Community"
 date: "2026"
 
 # Force standard system fonts to prevent LaTeX from crashing
-mainfont: "DejaVu Serif"
-sansfont: "DejaVu Sans"
+# mainfont: "DejaVu Serif"
+# sansfont: "DejaVu Sans"
 
 sections:
   - name: "Appetizers"
     recipes:
-      - recipes/appetizers/garlic-bread.md
+      - recipes/appetizers/salt-brined-pickles.md
   - name: "Main Courses"
     recipes:
       - recipes/mains/perfect-pizza.md
