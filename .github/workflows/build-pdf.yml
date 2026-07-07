@@ -36,6 +36,7 @@ jobs:
           pandoc combined_cookbook.md -o cookbook.pdf \
             --template=templates/eisvogel.tex \
             --toc \
+            --toc-depth=2 \
             --pdf-engine=xelatex \
             --include-in-header=templates/emoji-fix.tex \
             -V colorlinks=true \
