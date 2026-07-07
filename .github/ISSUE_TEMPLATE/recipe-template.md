@@ -8,6 +8,11 @@
 ### Description
 A brief, 1–2 sentence story or description of the dish. Why is it special? 
 
+### Equipment
+- [ ] Quantity Unit **Equipment Name** (e.g., `- [ ] 1 **quart-sized (32 oz) glass jar**`)
+- [ ] Quantity Unit **Equipment Name**
+- [ ] Quantity Unit **Equipment Name**
+
 ### Ingredients
 - [ ] Quantity Unit **Ingredient Name** (e.g., `- [ ] 2 tbsp **Olive Oil**`)
 - [ ] Quantity Unit **Ingredient Name**
