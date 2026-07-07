@@ -26,19 +26,20 @@ jobs:
       - name: Install Pandoc and LaTeX Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-xetex
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra texlive-xetex lmodern
 
       - name: Build PDF
         run: |
           pandoc combined_cookbook.md -o cookbook.pdf \
-            --toc \
-            --pdf-engine=xelatex \
-            -V geometry:margin=1in \
-            -V colorlinks=true \
-            -V linkcolor=blue \
-            -V urlcolor=cyan \
-            -V mainfont="DejaVu Serif" \
-            -V sansfont="DejaVu Sans"
+          --template=templates/eisvogel.tex \
+          --toc \
+          --pdf-engine=xelatex \
+          -V geometry:margin=1in \
+          -V colorlinks=true \
+          -V linkcolor=blue \
+          -V urlcolor=cyan \
+          -V mainfont="DejaVu Serif" \
+          -V sansfont="DejaVu Sans"
 
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
