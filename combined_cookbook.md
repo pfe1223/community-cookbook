@@ -40,6 +40,7 @@ A brief, 1–2 sentence story or description of the dish. Why is it special?
 1. **Taste:** Start tasting your pickles after about 5 days. Once they taste sour enough for you, move them to the refrigerator to slow down the fermentation process. Consume within 3-6 months for best flavor.
 
     _Note: Keep veggies submerged below the brine to prevent contamination by airborne molds and yeasts. If a white film develops on the liquid’s surface, it is a form of yeast called Kahm. This is harmless but can contribute to softening and the development of off flavors._
+
 > 💡 **Chef's Tip:** > Email Flora at somfermfest@gmail.com with any questions or visit www.somervillefermfest.com for info on upcoming fermentation events!
 
 
