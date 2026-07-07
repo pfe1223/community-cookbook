@@ -23,7 +23,7 @@ sections:
     # NEW: optional intro text shown under the section heading
     intro: "Small bites to open the table -- shareable, forgiving, and forgiving of last-minute substitutions."
     recipes:
-      - recipes/appetizers/garlic-bread.md
+      - recipes/appetizers/salt-brined-pickles.md
   - name: "Main Courses"
     recipes:
       - recipes/mains/perfect-pizza.md
