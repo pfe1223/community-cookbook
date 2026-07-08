@@ -6,7 +6,14 @@
 ---
 
 ### Description
-This recipe makes a rustic loaf of country bread using yeast water as the leavening agent. This recipe assumes you have fermented yeast water. Please see the Yeast Water recipe. Remember, dough is a living thing that responds to its local environment. You may need to make changes depending on the temperature.
+This recipe makes a rustic loaf of country bread using yeast water as the leavening agent. This recipe assumes you have fermented yeast water. Please see the Yeast Water recipe (previous page). Remember, dough is a living thing that responds to its local environment. You may need to make changes depending on the temperature.
+
+### Equipment
+- [ ] 1 **large bowl**
+- [ ] 1 **Bowl scraper**
+- [ ] 1 **Proofing basket** (a kitchen bowl lined with a tea towel works as well)
+- [ ] 1 **Cast iron pot with lid** (enamel coated works as well)
+- [ ] 1 **Scale**
 
 ### Ingredients
 - [ ] 400 grams **bread flour**
@@ -17,13 +24,13 @@ This recipe makes a rustic loaf of country bread using yeast water as the leaven
 
 ### Instructions
 #### Day 1
-1. **Prepare the poolish:** In a jar, set aside 5 grams of mature sourdough starter. To it, add 50 grams of water and 50 grams of flour.
+1. **Prepare the poolish:** In a container, pour 200 grams of your yeast water, and 200 grams of flour. Use all (100g) of the whole wheat flour, as well as 100g of the bread flour.
 2. **Mix well:** Mix the above ingredients together well, so that everything is well incorporated. There should be no dry spots of flour.
 3. **Let ferment:** Loosely cover the jar, and let sit at room temperature (72 to 75 Fahrenheit) for 10 hours.
 
 #### Day 2
-1. **Hydrate the starter:** In a large bowl, mix together the water and starter. Try to dissolve any large clumps of starter in the water. The water should become frothy.
-1. **Mix the dough:** Add the flour to the bowl, and mix thoroughly. Keep mixing until no more loose flour is visible. Be sure to scrape down the sides of the bowl as you go.
+1. **Hydrate the poolish:** In a large bowl, mix together the 150g of filtered water and the poolish. Try to dissolve any large clumps of poolish in the water. The water should become frothy.
+1. **Mix the dough:** Add the remaining 300g of bread flour to the bowl, and mix thoroughly. Keep mixing until no more flour is visible. Be sure to scrape down the sides of the bowl as you go.
 1. **Let rest:** Cover the bowl with a plate (or other lid), and let the flour hydrate for 30 minutes.
 1. **Add the salt:** Sprinkle the salt over the dough. With a _wet_ hand, squeeze and fold the dough so that the salt is evenly distributed and no longer visible.
 1. **Let rest:** Cover the dough, and let it rest for 30 minutes.
@@ -43,4 +50,7 @@ This recipe makes a rustic loaf of country bread using yeast water as the leaven
 1. **Bake:** Turn the oven down to 450F. Place the pot into the oven. Bake for 20 minutes. Remove the lid, and bake uncovered for another 20 minutes. When the loaf is a dark, golden brown, remove it from the oven.
 1. **Cool:** Let the loaf rest for two hours on a cooling rack before slicing.
 
-> 💡 **Chef's Tip:** > Insert any special variations, ingredient substitutions, or pairing suggestions here!
+> 💡 **Chef's Tip:** 
+> * In terms of baker's percentages, this recipe uses 20% whole wheat, 70% hydration, and 2.5% salt.
+> * Timing is everything in bread making. On a warm day, use cooler water. On a cold day, use warmer water. You may need to adjust the bulk fermentation based on the ambient temperature.
+> * Don't be afraid to vary the kinds and amounts of flour you use. Ancient grains like spelt, Khorasan (also called kamut), and einkorn are all delicious. If you can find an artisianal mill, see if they have any bolted wheat. Do keep in mind that whole wheat flour absorbs more water, so feel free to up the hydration to 75% (or more). 
