@@ -34,4 +34,5 @@ _Note: Salt helps protect vegetables from spoilage. You may adjust the quantity 
 _Note: Keep veggies submerged below the brine to prevent contamination by airborne molds and yeasts. If a white film develops on the liquid’s surface, it is a form of yeast called Kahm. This is harmless but can contribute to softening and the development of off flavors._
 
 > 💡 **Chef's Tip:**
+> 
 > Email Flora at somfermfest@gmail.com with any questions or visit www.somervillefermfest.com for info on upcoming fermentation events!

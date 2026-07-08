@@ -23,6 +23,7 @@ This recipe ferments raisins in water. The end result is water full of natural y
 1. **Strain:** When all of the raisins are floating, the water is bubbly, and agitating the water makes bubbles, the fermentation is done. Strain the raisins from the yeast water. Store the water in a clean container, and place it in the fridge. The yeast water can last about two weeks in the fridge.
 
 > 💡 **Chef's Tip:**
+> 
 > * The country loaf bread recipe (see next page) requires 200g of yeast water. The yeast water recipe should have a little bit left over. Use the extra yeast water to seed the next batch. This will help speed up fermentation times.
 > * Yeast water does not contain the same lactic acid bacteria found in a traditional sourdough starter. Bread made with yeast water will not have the same flavor as sourdough, but it is still makes an excellent loaf of bread.
 > * Fermentation depends on the ambient temperature. During the summer, perhaps it takes only 4 days to ferment a batch of yeast water. In the winter, it could take over a week.

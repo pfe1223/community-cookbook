@@ -51,6 +51,7 @@ This recipe makes a rustic loaf of country bread using yeast water as the leaven
 1. **Cool:** Let the loaf rest for two hours on a cooling rack before slicing.
 
 > 💡 **Chef's Tip:** 
+> 
 > * In terms of baker's percentages, this recipe uses 20% whole wheat, 70% hydration, and 2.5% salt.
 > * Timing is everything in bread making. On a warm day, use cooler water. On a cold day, use warmer water. You may need to adjust the bulk fermentation based on the ambient temperature.
 > * Don't be afraid to vary the kinds and amounts of flour you use. Ancient grains like spelt, Khorasan (also called kamut), and einkorn are all delicious. If you can find an artisianal mill, see if they have any bolted wheat. Do keep in mind that whole wheat flour absorbs more water, so feel free to up the hydration to 75% (or more). 
