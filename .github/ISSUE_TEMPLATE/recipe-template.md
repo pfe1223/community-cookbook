@@ -24,4 +24,5 @@ A brief, 1–2 sentence story or description of the dish. Why is it special?
 3. **Third Action Keyword:** Describe the third step.
 
 > 💡 **Chef's Tip:**
+> 
 > Insert any special variations, ingredient substitutions, or pairing suggestions here!
