@@ -30,4 +30,5 @@ sections:
   - name: "Breads"
     intro: "Sourdough, patience, and a little bit of flour on everything you own."
     recipes:
+      - recipes/bread/yeast-water.md
       - recipes/bread/country-loaf.md
