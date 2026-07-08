@@ -56,6 +56,7 @@ _Note: Salt helps protect vegetables from spoilage. You may adjust the quantity 
 _Note: Keep veggies submerged below the brine to prevent contamination by airborne molds and yeasts. If a white film develops on the liquid’s surface, it is a form of yeast called Kahm. This is harmless but can contribute to softening and the development of off flavors._
 
 > 💡 **Chef's Tip:**
+> 
 > Email Flora at somfermfest@gmail.com with any questions or visit www.somervillefermfest.com for info on upcoming fermentation events!
 
 
@@ -96,6 +97,7 @@ This recipe ferments raisins in water. The end result is water full of natural y
 1. **Strain:** When all of the raisins are floating, the water is bubbly, and agitating the water makes bubbles, the fermentation is done. Strain the raisins from the yeast water. Store the water in a clean container, and place it in the fridge. The yeast water can last about two weeks in the fridge.
 
 > 💡 **Chef's Tip:**
+> 
 > * The country loaf bread recipe (see next page) requires 200g of yeast water. The yeast water recipe should have a little bit left over. Use the extra yeast water to seed the next batch. This will help speed up fermentation times.
 > * Yeast water does not contain the same lactic acid bacteria found in a traditional sourdough starter. Bread made with yeast water will not have the same flavor as sourdough, but it is still makes an excellent loaf of bread.
 > * Fermentation depends on the ambient temperature. During the summer, perhaps it takes only 4 days to ferment a batch of yeast water. In the winter, it could take over a week.
@@ -157,6 +159,7 @@ This recipe makes a rustic loaf of country bread using yeast water as the leaven
 1. **Cool:** Let the loaf rest for two hours on a cooling rack before slicing.
 
 > 💡 **Chef's Tip:** 
+> 
 > * In terms of baker's percentages, this recipe uses 20% whole wheat, 70% hydration, and 2.5% salt.
 > * Timing is everything in bread making. On a warm day, use cooler water. On a cold day, use warmer water. You may need to adjust the bulk fermentation based on the ambient temperature.
 > * Don't be afraid to vary the kinds and amounts of flour you use. Ancient grains like spelt, Khorasan (also called kamut), and einkorn are all delicious. If you can find an artisianal mill, see if they have any bolted wheat. Do keep in mind that whole wheat flour absorbs more water, so feel free to up the hydration to 75% (or more). 
