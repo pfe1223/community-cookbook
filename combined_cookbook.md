@@ -55,7 +55,8 @@ _Note: Salt helps protect vegetables from spoilage. You may adjust the quantity 
 
 _Note: Keep veggies submerged below the brine to prevent contamination by airborne molds and yeasts. If a white film develops on the liquid’s surface, it is a form of yeast called Kahm. This is harmless but can contribute to softening and the development of off flavors._
 
-> 💡 **Chef's Tip:** > Email Flora at somfermfest@gmail.com with any questions or visit www.somervillefermfest.com for info on upcoming fermentation events!
+> 💡 **Chef's Tip:**
+> Email Flora at somfermfest@gmail.com with any questions or visit www.somervillefermfest.com for info on upcoming fermentation events!
 
 
 \pagebreak
@@ -70,6 +71,39 @@ _Note: Keep veggies submerged below the brine to prevent contamination by airbor
 
 Sourdough, patience, and a little bit of flour on everything you own.
 
+## Yeast Water
+
+**Prep Time:** 3 mins | **Fermentation Time:** 5-7 days | **Servings:** About 225g yeast water
+**Contributor:** Patrick
+
+---
+
+### Description
+This recipe ferments raisins in water. The end result is water full of natural yeast that can leaven a loaf of bread. **Note:** Bread baked with yeast water will not taste like raisins.
+
+### Equipment
+- [ ] 1 **Large jar** (needs to hold around 14oz of liquid)
+- [ ] 1 **Kitchen scale**
+
+### Ingredients
+- [ ] 300g **Filtered water** (use room temperature water)
+- [ ] 100g **Organic raisins**
+
+### Instructions
+1. **Combine raisins and water:** Place the water and raisins into a large, clean jar. Cover with a lid.
+1. **Stir:** After 24 hours, stir the raisins and water. If you are using an airtight container, you can shake the jar of water instead of stirring.
+1. **Ferment yeast water:** Stir the water every day for at least five days.
+1. **Strain:** When all of the raisins are floating, the water is bubbly, and agitating the water makes bubbles, the fermentation is done. Strain the raisins from the yeast water. Store the water in a clean container, and place it in the fridge. The yeast water can last about two weeks in the fridge.
+
+> 💡 **Chef's Tip:**
+> * The country loaf bread recipe (see next page) requires 200g of yeast water. The yeast water recipe should have a little bit left over. Use the extra yeast water to seed the next batch. This will help speed up fermentation times.
+> * Yeast water does not contain the same lactic acid bacteria found in a traditional sourdough starter. Bread made with yeast water will not have the same flavor as sourdough, but it is still makes an excellent loaf of bread.
+> * Fermentation depends on the ambient temperature. During the summer, perhaps it takes only 4 days to ferment a batch of yeast water. In the winter, it could take over a week.
+> * Unhealthy things can grow on the exposed raisins floating in water. That is why it is important to stir the water each day. Discard the water if you see things growing or floating. Sediment at the bottom of jar is okay.
+> * Almost any fruit can be used to make yeast water (fresh apples are common). Do try to use organic fruit. However, avoid acidic fruit like kiwis and pineapple.
+
+\pagebreak
+
 ## Country Loaf (Yeast Water)
 
 **Prep Time:** 3 days | **Cook Time:** 40 mins | **Servings:** 1 loaf
@@ -78,7 +112,14 @@ Sourdough, patience, and a little bit of flour on everything you own.
 ---
 
 ### Description
-This recipe makes a rustic loaf of country bread using yeast water as the leavening agent. This recipe assumes you have fermented yeast water. Please see the Yeast Water recipe. Remember, dough is a living thing that responds to its local environment. You may need to make changes depending on the temperature.
+This recipe makes a rustic loaf of country bread using yeast water as the leavening agent. This recipe assumes you have fermented yeast water. Please see the Yeast Water recipe (previous page). Remember, dough is a living thing that responds to its local environment. You may need to make changes depending on the temperature.
+
+### Equipment
+- [ ] 1 **large bowl**
+- [ ] 1 **Bowl scraper**
+- [ ] 1 **Proofing basket** (a kitchen bowl lined with a tea towel works as well)
+- [ ] 1 **Cast iron pot with lid** (enamel coated works as well)
+- [ ] 1 **Scale**
 
 ### Ingredients
 - [ ] 400 grams **bread flour**
@@ -89,13 +130,13 @@ This recipe makes a rustic loaf of country bread using yeast water as the leaven
 
 ### Instructions
 #### Day 1
-1. **Prepare the poolish:** In a jar, set aside 5 grams of mature sourdough starter. To it, add 50 grams of water and 50 grams of flour.
+1. **Prepare the poolish:** In a container, pour 200 grams of your yeast water, and 200 grams of flour. Use all (100g) of the whole wheat flour, as well as 100g of the bread flour.
 2. **Mix well:** Mix the above ingredients together well, so that everything is well incorporated. There should be no dry spots of flour.
 3. **Let ferment:** Loosely cover the jar, and let sit at room temperature (72 to 75 Fahrenheit) for 10 hours.
 
 #### Day 2
-1. **Hydrate the starter:** In a large bowl, mix together the water and starter. Try to dissolve any large clumps of starter in the water. The water should become frothy.
-1. **Mix the dough:** Add the flour to the bowl, and mix thoroughly. Keep mixing until no more loose flour is visible. Be sure to scrape down the sides of the bowl as you go.
+1. **Hydrate the poolish:** In a large bowl, mix together the 150g of filtered water and the poolish. Try to dissolve any large clumps of poolish in the water. The water should become frothy.
+1. **Mix the dough:** Add the remaining 300g of bread flour to the bowl, and mix thoroughly. Keep mixing until no more flour is visible. Be sure to scrape down the sides of the bowl as you go.
 1. **Let rest:** Cover the bowl with a plate (or other lid), and let the flour hydrate for 30 minutes.
 1. **Add the salt:** Sprinkle the salt over the dough. With a _wet_ hand, squeeze and fold the dough so that the salt is evenly distributed and no longer visible.
 1. **Let rest:** Cover the dough, and let it rest for 30 minutes.
@@ -115,7 +156,10 @@ This recipe makes a rustic loaf of country bread using yeast water as the leaven
 1. **Bake:** Turn the oven down to 450F. Place the pot into the oven. Bake for 20 minutes. Remove the lid, and bake uncovered for another 20 minutes. When the loaf is a dark, golden brown, remove it from the oven.
 1. **Cool:** Let the loaf rest for two hours on a cooling rack before slicing.
 
-> 💡 **Chef's Tip:** > Insert any special variations, ingredient substitutions, or pairing suggestions here!
+> 💡 **Chef's Tip:** 
+> * In terms of baker's percentages, this recipe uses 20% whole wheat, 70% hydration, and 2.5% salt.
+> * Timing is everything in bread making. On a warm day, use cooler water. On a cold day, use warmer water. You may need to adjust the bulk fermentation based on the ambient temperature.
+> * Don't be afraid to vary the kinds and amounts of flour you use. Ancient grains like spelt, Khorasan (also called kamut), and einkorn are all delicious. If you can find an artisianal mill, see if they have any bolted wheat. Do keep in mind that whole wheat flour absorbs more water, so feel free to up the hydration to 75% (or more). 
 
 \pagebreak
 
